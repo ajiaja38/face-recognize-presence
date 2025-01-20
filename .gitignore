@@ -1,1 +1,4 @@
 venv/
+.env
+face_encodings.json
+src/data
